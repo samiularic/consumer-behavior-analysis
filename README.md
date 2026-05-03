@@ -3,7 +3,8 @@ Python-based regression analysis of digital purchase behavior among U.S. women's
 Consumer Behavior Analysis: Domain-Level Demand in Online Women's Apparel
 
 
-Overview
+Overview:
+
 This repository contains Python-based regression analysis examining digital purchase behavior among U.S. women's apparel consumers using a 2019 transaction panel, a nationally representative U.S. consumer dataset. This research is conducted at the Feliciano School of Business, Montclair State University, under the supervision of Dr. Patrali Chatterjee, Chairperson, Department of Marketing. It targets publication in the Journal of Retailing and Consumer Services or Electronic Commerce Research and Applications. This work was presented at the Montclair State University Student Research Symposium on April 24, 2026.
 
 
