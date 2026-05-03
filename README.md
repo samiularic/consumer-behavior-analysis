@@ -11,7 +11,7 @@ RQ2: Do loyal and multi-platform shoppers differ in annual spending intensity, c
 RQ3: Do households at the same income level but different household structures show different domain preferences?
 
 Dataset
-Source: comScore 2019 Transaction Panel
+Source: 2019 Transaction Panel
 
 Scope: Tens of thousands of women's apparel transactions across 9 major U.S. retail domains
 Demographic variables: Income, education, age, household size, presence of children, census region
